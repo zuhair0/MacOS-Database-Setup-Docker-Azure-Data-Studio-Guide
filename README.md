@@ -8,3 +8,7 @@
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/27d4ca77-41b9-4c3f-9b06-ac63d8e91b12">
 
 7. Click on Connect and you are done
+8. Now you are able to see this
+    <img width="1438" alt="image" src="https://github.com/user-attachments/assets/a7bb395a-1ace-45c9-bce4-b26de916bf6a">
+9. You can Create Database by clicking the 'Databases'
+
