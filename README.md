@@ -6,4 +6,4 @@
 5. Now go to Azure Data Studio -> go to Connections -> New Connections ->
 6. Password: Justice1234
 <img width="497" alt="image" src="https://github.com/user-attachments/assets/27d4ca77-41b9-4c3f-9b06-ac63d8e91b12">
-8. Click on Connect and you are done
+7. Click on Connect and you are done
